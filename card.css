@@ -52,7 +52,7 @@ summary {
     position: relative;
     margin-top: 90px;
     transform: translateX(-40px);
-    /* box-shadow: 0px 0px 1px 0px gray; */
+    box-shadow: 0px 10px 50px gray;
     /* position: absolute; */
     /* clip: rect(0px 100px 100px 100px); */
 }
